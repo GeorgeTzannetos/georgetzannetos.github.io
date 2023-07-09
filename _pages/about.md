@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="justify">I am a researcher and a PhD candidate working in the area of Reinforcement Learning. I am member of the  <a href="https://machineteaching.mpi-sws.org/index.html">Machine Teaching Group</a> at the <a href="https://www.mpi-sws.org/">Max Planck Institute of Software Systems </a> working under the supervision of Dr. <a href="https://www.mpi-sws.org/people/adishs/">Adish Singla </a>. I am interested in making Reinforcement Learning agents train more efficiently with less interactions with their environment. We get inspired by human learning and we design curriculum strategies that help the agent learn faster. </div>
+<div align="justify">I am a researcher and a PhD candidate working in the area of Reinforcement Learning. I am member of the  <a href="https://machineteaching.mpi-sws.org/index.html">Machine Teaching Group</a> at the <a href="https://www.mpi-sws.org/">Max Planck Institute of Software Systems </a> working under the supervision of Dr. <a href="https://www.mpi-sws.org/people/adishs/">Adish Singla </a>. I am interested in making Reinforcement Learning agents train more efficiently with less interactions with their environment. We get inspired by human learning and we design curriculum strategies that help agents learn faster. </div>
 
 In the past, I have worked as a Data Scientist and Computer Vision Engineer in the industry.
 
