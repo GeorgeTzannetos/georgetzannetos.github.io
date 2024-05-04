@@ -14,6 +14,9 @@ In the past, I have worked as a Data Scientist and Computer Vision Engineer in t
 
 News
 ======
-- 21.04.2023: Our paper [Proximal Curriculum for Reinforcement Learning Agents](https://twitter.com/TmlrPub/status/1649518923367194625?cxt=HHwWgoCx2ZSuouQtAAAA) got accepted in Transactions on Machine Learning Research. 
+- 02.05.2024: One paper accepted at ICML 2024!
+- 16.04.2024: Two papers accepted at IJCAI 2024! 
+- 16.01.2024: Our paper [Neural Task Synthesis for Visual Programming](https://twitter.com/TmlrPub/status/1750760534104850682) got published in Transactions on Machine Learning Research.
+- 21.04.2023: Our paper [Proximal Curriculum for Reinforcement Learning Agents](https://twitter.com/TmlrPub/status/1649518923367194625?cxt=HHwWgoCx2ZSuouQtAAAA) got published in Transactions on Machine Learning Research. 
 - 31.08.2022: We are teaching an advanced course on [Reinforcement Learning](https://machineteaching.mpi-sws.org/course-advanced-rl-w22.html).
 - 25.02.2022: We are teaching a seminar course on [Neuro-Symbolic Reinforcement Learning](https://machineteaching.mpi-sws.org/course-neurosymbolicrl-s22.html)
