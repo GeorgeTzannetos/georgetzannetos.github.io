@@ -1,7 +1,7 @@
 ---
-title: "Teaching assistant on Seminar on Neuro-Symbolic Reinforcement Learning"
+title: "Neuro-Symbolic Reinforcement Learning"
 collection: teaching
-type: "Seminar course"
+type: "Teaching assistant for seminar course"
 permalink: /teaching/neurosymbolic-seminar
 venue: "Saarland University"
 date: 01.04.2022
