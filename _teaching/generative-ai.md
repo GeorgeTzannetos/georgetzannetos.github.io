@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching assistant for advanced course"
 permalink: /teaching/reinforcement-learning
 venue: "Saarland University"
-date: 01.10.2022
+date: 01.10.2024
 location: "Saarbruecken, Germany"
 ---
 
