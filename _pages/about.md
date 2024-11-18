@@ -14,6 +14,7 @@ In the past, I have worked as a Data Scientist and Computer Vision Engineer in t
 
 News
 ======
+- 01.09.2024: We are teaching a lecture course on [Generative AI](https://generative-ai.mpi-sws.org/course-genai-w24/index.html) at Saarland University.
 - 02.05.2024: One paper accepted at ICML 2024!
 - 16.04.2024: Two papers accepted at IJCAI 2024! 
 - 16.01.2024: Our paper [Neural Task Synthesis for Visual Programming](https://twitter.com/TmlrPub/status/1750760534104850682) got published in Transactions on Machine Learning Research.
