@@ -1,5 +1,5 @@
 ---
-title: '<a href="https://neurips.cc/virtual/2025/poster/115071"  style="color: MidnightBlue; text-decoration: underline;"> Curriculum Design for Trajectory-Constrained Agents with Applications to Compressing LLM Output Tokens</a>'
+title: '<a href="https://arxiv.org/pdf/2511.02690"  style="color: MidnightBlue; text-decoration: underline;"> Curriculum Design for Trajectory-Constrained Agent: Compressing Chain-of-Thought Tokens in LLMs</a>'
 collection: publications
 permalink: /publication/neurips2025
 excerpt: '**G. Tzannetos**, P Kamalaruban, A. Singla'

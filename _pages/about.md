@@ -14,7 +14,8 @@ In the past, I have worked as a Data Scientist and Computer Vision Engineer in t
 
 News
 ======
-- 18.09.2025: Our paper **Curriculum Design for Trajectory-Constrained Agents with Applications to Compressing LLM Output Tokens** got accepted at *NeurIPS* 2025!
+- 18.09.2025: Our paper [Curriculum Design for Trajectory-Constrained Agent:
+  Compressing Chain-of-Thought Tokens in LLMs](https://arxiv.org/pdf/2511.02690) got accepted at *NeurIPS* 2025!
 - 01.09.2024: We are teaching a lecture course on [Generative AI](https://generative-ai.mpi-sws.org/course-genai-w24/index.html) at Saarland University.
 - 02.05.2024: One paper accepted at ICML 2024!
 - 16.04.2024: Two papers accepted at IJCAI 2024! 
