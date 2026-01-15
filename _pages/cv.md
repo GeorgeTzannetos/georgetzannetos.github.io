@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Here you can find a version of my [CV](https://drive.google.com/file/d/1uQZN5ce6U875OCyT1Rz3KNIWM3lnt0qF/view?usp=sharing)
+Here you can find a version of my [CV](https://drive.google.com/file/d/16zs6ZuSqLnjGfbXpRA4awfqfp9rOEbN6/view?usp=sharing)
